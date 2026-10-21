@@ -1,4 +1,4 @@
-const CACHE_NAME = 'M&H-v4';
+const CACHE_NAME = 'M&H-v5';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html'
